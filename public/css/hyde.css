@@ -248,3 +248,17 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.sidebar-pic {
+  text-align: center;   /* center the image */
+  margin-bottom: 1rem;  /* spacing between image and text */
+}
+
+.sidebar-pic img {
+  display: block;        /* make sure image is displayed */
+  max-width: 100%;       /* scale down if too large */
+  width: 120px;          /* set desired width */
+  height: auto;          /* keep aspect ratio */
+  border-radius: 50%;    /* make circular */
+  margin: 0 auto;        /* center horizontally */
+}
