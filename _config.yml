@@ -10,7 +10,7 @@ title:            Morteza Motegh
 tagline:          'A Jekyll theme'
 description:      'Data Science Business Analyst'
 url:              http://tezamo.github.io
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Tezamo'
