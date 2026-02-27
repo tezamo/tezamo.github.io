@@ -258,3 +258,25 @@ a.sidebar-nav-item:focus {
   border-radius: 50%;    /* make circular */
   margin: 0 auto;        /* center horizontally */
 }
+
+
+.layout-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+@media (min-width: 48em) {
+  .sidebar {
+    position: sticky;
+    top: 0;
+    width: 18rem;
+    min-width: 18rem;
+    height: 100vh;
+    overflow-y: auto;
+    text-align: left;
+  }
+
+  .content {
+    margin-left: 2rem; /* override the old margin-left: 20rem */
+  }
+}
