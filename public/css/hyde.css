@@ -108,13 +108,9 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .sidebar-sticky {
-    position: absolute;
-    top:    1rem;
-    right:  1rem;
-    left:   1rem;
+    padding: 1rem;
   }
 }
-
 
 /* Container
  *
