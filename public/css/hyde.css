@@ -67,6 +67,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    overflow-y: auto;   /* ← add this line */
   }
 }
 
@@ -108,9 +109,11 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
+    top:    1rem;
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
+    overflow-y: auto;
   }
 }
 
