@@ -1,3 +1,4 @@
+## Research
 
 ### **Price Transmission in Agricultural Commodity Markets** (2025-2026)
 
