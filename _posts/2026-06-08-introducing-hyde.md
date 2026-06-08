@@ -2,7 +2,6 @@
 layout: post
 title: About Me
 ---
-About Me
 
 I am a Data Science and Economics professional with a strong background in financial analysis, economic research, and data-driven decision-making. Currently pursuing my M.Sc. in Data Science & Economics at Martin Luther University Halle-Wittenberg, I specialize in transforming complex data into actionable insights for business and policy contexts.
 
