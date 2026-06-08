@@ -1,13 +1,16 @@
-## Research
+---
+layout: default
+title: research
+---
 
-### **Price Transmission in Agricultural Commodity Markets** (2025-2026)
+**Price Transmission in Agricultural Commodity Markets** (2025-2026)
 
 **Master's Thesis**, Martin Luther University Halle-Wittenberg  
 **Supervisors:** Prof. Thomas Glauben and Prof. Michael Kopsidis
 
 Research on price transmission mechanisms in agricultural commodity markets, with a focus on market integration and price dynamics.
 
-### **Industries' Relative Labor Intensity and Economic Growth** (2021-2022)
+**Industries' Relative Labor Intensity and Economic Growth** (2021-2022)
 
 **Master's Thesis**, University of Tehran  
 **Supervisors:** Prof. Rahmani and Prof. Mehrara
