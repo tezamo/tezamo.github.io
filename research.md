@@ -3,6 +3,8 @@ layout: default
 title: research
 ---
 
+# Research
+
 **Price Transmission in Agricultural Commodity Markets** (2025-2026)
 
 **Master's Thesis**, Martin Luther University Halle-Wittenberg  
